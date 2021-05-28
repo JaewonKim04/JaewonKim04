@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=white&link=mailto:turitus44@gmail.com)](turitus44@gmail.com)
 <!--
 **jaewonkim1468/jaewonkim1468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
